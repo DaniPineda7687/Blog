@@ -16,3 +16,22 @@ button{
     background-color: #2e2e2e;
     
 }
+.cabecera{
+    color: #ffffff;
+}
+.cabecera ul{
+    display: flex;
+
+}
+.cabecera ul li{
+    margin-right: 30px;
+    list-style: none;
+    padding: .6em;
+}
+
+.cabecera ul li:hover{
+    background-color: #ffffff;
+    color: #000000;
+    transition: .2s;
+    
+}
