@@ -18,9 +18,12 @@ button{
 }
 .cabecera{
     color: #ffffff;
+
 }
 .cabecera ul{
     display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 .cabecera ul li{
@@ -34,4 +37,13 @@ button{
     color: #000000;
     transition: .2s;
     
+}
+.cabecera ul li img{
+    width: 4em;
+    height: 4em;
+}
+.body{
+    width: 70%;
+    margin: auto;
+    text-align: justify;
 }
