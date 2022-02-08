@@ -4,3 +4,4 @@
 * Master 1
 * Master 2
 * Creado por Daniel Pineda
+* Practicas del curso de Platzi
